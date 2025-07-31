@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+*.sqlite3
+*.log
+cookies.json
+linkedin_cookies.pkl
+leads.xlsx
+node_modules/
+.DS_Store
