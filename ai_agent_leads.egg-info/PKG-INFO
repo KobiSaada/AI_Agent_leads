@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: ai_agent_leads
+Version: 0.1.0
+Summary: Smart AI Agent with multi-source scraping from scrape_up
+Author: Your Name
+Requires-Python: >=3.8
+Requires-Dist: requests
+Requires-Dist: beautifulsoup4
+Requires-Dist: lxml
+Requires-Dist: langchain
+Requires-Dist: langchain-community
+Requires-Dist: ollama
+Requires-Dist: openai
+Requires-Dist: scrapy
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
