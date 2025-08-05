@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://www.linkedin.com/in/kobi-saada-5221b9219/",
+    "name": "Kobi Saada",
+    "location": "Raz-Lee Security",
+    "connections": "",
+    "about": "",
+    "experience": [
+      {
+        "position": "Software Engineer",
+        "organization": "Raz-Lee Security · Full-timeRaz-Lee Security · Full-time"
+      },
+      {
+        "position": "Combat Engineer First Sergeant",
+        "organization": "Israel Defense ForcesIsrael Defense Forces"
+      }
+    ],
+    "education": [
+      {
+        "school": "Ariel University",
+        "degree": "Bachelor of Science - BS, Computer ScienceBachelor of Science - BS, Computer Science"
+      },
+      {
+        "school": "yeshivat bnei akiva school",
+        "degree": "Oct 2007 - Jun 2012Oct 2007 - Jun 2012"
+      }
+    ]
+  }
+]
