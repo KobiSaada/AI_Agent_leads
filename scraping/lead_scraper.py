@@ -1,6 +1,6 @@
 import json
-from AI_Agent_leads.scrape_up.dynamic_scrape_sources import dynamic_scrape_sources  # פונקציה שתבנה בהמשך
-from AI_Agent_leads.ai_agent.prompt_parser.parser import CATEGORY_MAPPING,extract_categories_and_keywords, match_modules_by_categories
+from Ai_Agents.scrape_up.dynamic_scrape_sources import dynamic_scrape_sources  # פונקציה שתבנה בהמשך
+from Ai_Agents.ai_agent.prompt_parser.parser import CATEGORY_MAPPING,extract_categories_and_keywords, match_modules_by_categories
 
 def map_categories_to_supported(categories: list[str]) -> list[str]:
     return [CATEGORY_MAPPING.get(cat.lower(), cat) for cat in categories]
